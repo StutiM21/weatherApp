@@ -1,0 +1,1 @@
+This weather app  takes location input from the user about and uses api key from the open weather app to fetch the current weather updates. This app uses HTML,CSS and Javascript linked all together. The weather information is given inside a box and this app uses conditions to display the colour of the box according to the current temperature of the given location.
